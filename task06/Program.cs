@@ -17,4 +17,4 @@ int a = Console.Read();
 else
 {
     Console.WriteLine("да");
-};
+}

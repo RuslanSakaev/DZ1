@@ -9,7 +9,7 @@
 
 Console.WriteLine("Введите целое число: ");
 int num = Convert.ToInt32(Console.ReadLine());
-int i = 0;
+int i = 2;
 while (i <= num)
     {
         Console.Write($"{i} ");
